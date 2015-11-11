@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">B9_Fragment</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="replaceString">Replace by f2</string>
+    <string name="textviewString">your at f2</string>
+</resources>
